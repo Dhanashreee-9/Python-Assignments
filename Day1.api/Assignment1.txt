@@ -1,0 +1,55 @@
+Q1.What is Python?
+Answer=> Python is an interpreted, high-level, general-purpose popular programming language. 
+Created by Guido van Rossum and first released in 1991.
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+Why python?
+1.Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+2.Python has a simple syntax similar to the English language.
+3.Python can be treated in a procedural way, an object-orientated way or a functional way.
+
+Q2.What are the ways to install python in your pc?
+Answer=> Many PCs and Macs will have python already installed.
+To check if you have python installed on a Windows PC, 
+search in the start bar for Python or run the following on the Command Line (cmd.exe):
+
+Steps:
+1.Double-click the icon labeling the file python-3.7.4-amd64.exe.
+2.Highlight the Install Now (or Upgrade Now) message, and then click it.
+  When run, a User Account Control pop-up window may appear on your screen. I could not capture its image, but it asks,
+  Do you want to allow this app to make changes to your device.
+3.Click the Yes button.
+  A new Python 3.7.4 (64-bit) Setup pop-up window will appear with a Setup Progress message and a progress bar.
+4.Click the Close button.
+Python should now be installed.
+
+
+Q3.What are code environment?Types?
+Answer=>Code Environment is a place where we can write the code and execute.
+ 
+There are 3 types of code environment are as follows:
+1.Text Editors
+2.Full IDEs
+3.Notebook Environment
+
+1.Text Editors:
+A text editor is a type of computer program that edits plain text.
+For example:Sublime Text
+Atom
+Notepad++
+
+2.Full IDEs:(Integrated Development Environment)
+An IDE (or Integrated Development Environment) is a program dedicated to software development.
+For example: PyCharm
+Visual Studio Code
+Spyder
+
+3.Notebook Environment:
+ Which contain both computer code (e.g. python) and rich text elements (paragraph, equations, figures, links, etc…).
+For example:Jupyter Notebook
